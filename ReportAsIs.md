@@ -2,7 +2,7 @@ Model of Organization - as is
 
 # Identification
 
-Name, address
+Bronze Industrial Group, Bronze St (nakhl street) ,Kerman Motor Blvd , 16th km Tehran Karaj Exp-way , Tehran
 
 Fiscal ID  (ex partita iva, codice fiscale, ..)
 
@@ -22,8 +22,20 @@ Number of employees, year 2018
 
 ## Products, services
 
-Products or services offered
+Bronze is the only manufacturer of WoodStock sheets in Iran.
+The main extruding product at Bronze Plast Salon is polywood Sheets, These sheets, which make up the bulk of our products are among the most commonly used materials in the world of door panel and parcel shelves. The above mentioned sheets were imported from outside the country, By launching an extruding machine and producing these sheets in the bronze company, In order to self-sufficiency and to prevent the withdrawal of currency from the company, a significant step was taken.In most products of the company, wood composite sheets are used to produce the final products.
 
+The bronze laboratory began its operation at an area of ​​about 40 square meters, with the launch of the Bronze Company, with only one device to test the impact of the free fall of plastic parts. At the same time as the development of bronze company, a number of test methods and devices of this laboratory were added and devices such as Tensile, HDT / VICAT, Oven, Chambers, environmental conditions and … were added to the laboratory equipment.
+
+In 1993, by changing the bronze qualitative approach and adding more key components to the bronze production complex, the lab building was moved to a larger location and after updating and equipping it with world-day devices such as the Airborne Static Deployment Test (SDT), a test similar to The sunshine (SUN SIMULATOR) and spectrophotometer (SPECTROPHOTOMETR) have grown to around 400 square meters.
+
+The lab now has more than 25 key devices in the testing of materials, polymer parts and automotive products, such as durable treaders for all types of vehicle assemblies such as DOOR SLAM, durability of the dashboard and durability of the door handle, and … One of the largest and most qualitative references for the testing of polymer products, and in particular automobile decoration, offers its services to all partners and non-automotive car companies.
+
+Due to the production of polywood and geomembrane sheets in the production lines of this complex, the bronze laboratory has been equipped with the equipment and testing methods for these products and is now able to carry out the process of servicing this product line and satisfying its customers . All mechanical tests are on these products.
+
+The bronze laboratory has a test confirmation from all automotive companies working with them, such as Iran Khodro, Saipa, Renault Pars and Kerman Khodro. In order to continuously improve the services provided to customers, the laboratory acquired ISO-17025 certificate from the National Center for National Certification in 1996 and became a reference laboratory in the field of quality control services for polymer products. This laboratory is prepared to offer its services to a wide range of industries in the field of related or non-related work, and is not expected to attend any kind of visit or co-operation meetings.
+
+The bronze laboratory has a test confirmation from all automotive companies working with them, such as Iran Khodro, Saipa, Renault Pars and Kerman Khodro. In order to continuously improve the services provided to customers, the laboratory acquired ISO-17025 certificate from the National Center for National Certification in 1996 and became a reference laboratory in the field of quality control services for polymer products. This laboratory is prepared to offer its services to a wide range of industries in the field of related or non-related work , and is not expected to attend any kind of visit or co-operation meetings.
 ## Goal, goal type, mission, vision, strategy
 
 As declared by the organization
