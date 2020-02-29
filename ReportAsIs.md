@@ -65,7 +65,11 @@ As a result, Bronze is not a Geographical however it's Functional company with h
 Remark: key processes box must be consistent with IS Views /  Process view (below)
 
 # IS Views
-
+In general, in a product warehousing system, the process is to send the goods to the warehouse after production. The sales unit according to the consumer inventory in the warehouse sells the goods to the customer.
+Initially, the warehouse keeper will list the new goods for the first time and enter details into the warehouse system with the name and specifications which are not previously stored in the warehouse.
+Also, the warehouse keeper enters the new warehouse details which are being used for storing the product, according to its specifications. The warehouse keeper logs it into the system after receiving the goods from and issuing the receipt. From now, this product is counted as a warehouse stock and the name and specification of the product are in the system.
+Then, given the inventories available for this product, the inventory can be obtained by the system and provided to the sales department. Customer contacts to Factory Sales Unit for Purchasing. After the customer is registered in the system based on the merchandise inventory, the order is registered and a date is set for contracting and finalizing the order, which can be the same time (at the time of the agreement). Costs are incurred and the order cannot be changed after the contract has been concluded.
+The sales unit sends a custom remittance to the warehouse keeper.The warehouse keeper communicates with the customer after checking the items and coordinates the exact specifications of the time and place of delivery with the customer. The warehouse keeper issues the loading permit for the remittance and delivers it to the driver along with the delivery address. Once the goods are delivered to the customer, they will receive a receipt from the customer.In the event of any defects in the goods and their referral by the customer, returning invoice is issued for the customer and refund the cost of the reference item. Then the sales unit after receiving the item from the customer will send it to the production line for correction.On the other hand, during the selling process, there is always a need for contacts between the warehouse keeper and the sales unit to ensure whether goods are available or not.
 ## Functional view, data
 
 UML class diagram for data conceptual model (common to all processes / all organization)
