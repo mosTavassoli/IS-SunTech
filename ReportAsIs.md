@@ -18,7 +18,7 @@ Turn over year 2018
 
 ## Size
 
-Number of employees, year 2018
+approximately 400 employees , year 2019
 
 ## Products, services
 
@@ -35,15 +35,13 @@ Due to the production of polywood and geomembrane sheets in the production lines
 
 The bronze laboratory has a test confirmation from all automotive companies working with them, such as Iran Khodro, Saipa, Renault Pars and Kerman Khodro. In order to continuously improve the services provided to customers, the laboratory acquired ISO-17025 certificate from the National Center for National Certification in 1996 and became a reference laboratory in the field of quality control services for polymer products. This laboratory is prepared to offer its services to a wide range of industries in the field of related or non-related work, and is not expected to attend any kind of visit or co-operation meetings.
 
-The bronze laboratory has a test confirmation from all automotive companies working with them, such as Iran Khodro, Saipa, Renault Pars and Kerman Khodro. In order to continuously improve the services provided to customers, the laboratory acquired ISO-17025 certificate from the National Center for National Certification in 1996 and became a reference laboratory in the field of quality control services for polymer products. This laboratory is prepared to offer its services to a wide range of industries in the field of related or non-related work , and is not expected to attend any kind of visit or co-operation meetings.
+Plastic injection by heavy injection machines From 800 to 2700 tons Injectable weight up to 20 kg Injection, assembly and warehousing and logistics Possibility to send goods daily to the whole country
 ## Goal, goal type, mission, vision, strategy
 
-As declared by the organization
-
-CSF (as declared by organization, or derived by you)
+Their mission is creating a true sense of safety, calmness, and comfort for their  customers in different automobile classes , through designing and mass production of trim parts including a variety of dashboards , door panels , parcel shelves , sound and thermal insulators and etc., with high quality, and time and cost management through combining art , science and technology in designing and product manufacturing . Relying on science, domestic ability and progressed machines, Bronze Industrial Group is ready to design and manufacture any kind of products required by domestic and global markets. Regarding the institutionalization of the R & D organization in the bronze industrial group, it is possible to transform any idea into a product and create new products.
 
 ## Culture
-
+The bronze industrial group, relying on its large industrial family, is one of the largest and most progressive manufacturing companies in the trim and complementary industries of the various production vehicles of the major companies of Iran Khodro, Pars Khodro, Renault and Saipa, such as “Dashboards of various types, Door panels , Parcel shelves and insulators, Thermal and hot termal, locking and door handle, and heavy polyethylene sheets (geomembranes), geotextile in the country.
 ## Structure
 
 Organizational chart
@@ -64,10 +62,10 @@ Report ratio: expense in IT / Turn over
 
 ## Organizational type
 
-Argument if organization is: mechanical / learning
+Bronze Industry which is located nearly to the capital city holds the CEO, Development, Human Resource, Marketing, Financial, Support, warehousing, and IT departments. Note that the software systems (product) is developed in main Industry's building.
+As a result, Bronze is not a Geographical however it's Functional company with high level of formalization.
 
-Argument if organization is: entrepreneurial start up / divisionalized bureaucracy / etc
-
+https://www.mediafire.com/convkey/293c/222lwk8wszhpcw56g.jpg
 # Business Model Canvas
 
 Remark: key processes box must be consistent with IS Views /  Process view (below)
