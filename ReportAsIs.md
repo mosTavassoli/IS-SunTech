@@ -4,15 +4,9 @@ Model of Organization - as is
 
 Bronze Industrial Group, Bronze St (nakhl street) ,Kerman Motor Blvd , 16th km Tehran Karaj Exp-way , Tehran
 
-Fiscal ID  (ex partita iva, codice fiscale, ..)
-
-Ateco or NACE code and category
-
 # Financial and legal information
 
-Legal form (ex srl, snc, sas, plc, co, ...)
-
-Turn over year 2018
+Turn over in the year 2019 of Bronze Industry is roughly 7.5 million Euros based on their services and selling products.
 
 # Organizational variables
 
@@ -46,7 +40,7 @@ The bronze industrial group, relying on its large industrial family, is one of t
 
 Organizational chart
 
-Argument if structure is functional / divisional / geographical / etc
+<img src="https://www.mediafire.com/convkey/de0c/kkb2wvkigs0j3gd6g.jpg" alt=""> <br>
 
 ### IT/IS  group / office
 
@@ -65,8 +59,8 @@ Report ratio: expense in IT / Turn over
 Bronze Industry which is located nearly to the capital city holds the CEO, Development, Human Resource, Marketing, Financial, Support, warehousing, and IT departments. Note that the software systems (product) is developed in main Industry's building.
 As a result, Bronze is not a Geographical however it's Functional company with high level of formalization.
 
-<img src="https://www.mediafire.com/convkey/293c/222lwk8wszhpcw56g.jpg" alt=""> <br>
 # Business Model Canvas
+<img src="https://www.mediafire.com/convkey/84d3/vgkvaj5oxwtc6op6g.jpg" alt=""> <br>
 
 Remark: key processes box must be consistent with IS Views /  Process view (below)
 
