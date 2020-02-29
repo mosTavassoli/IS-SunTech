@@ -65,7 +65,7 @@ Report ratio: expense in IT / Turn over
 Bronze Industry which is located nearly to the capital city holds the CEO, Development, Human Resource, Marketing, Financial, Support, warehousing, and IT departments. Note that the software systems (product) is developed in main Industry's building.
 As a result, Bronze is not a Geographical however it's Functional company with high level of formalization.
 
-https://www.mediafire.com/convkey/293c/222lwk8wszhpcw56g.jpg
+ <img src="https://www.mediafire.com/convkey/293c/222lwk8wszhpcw56g.jpg" alt="">
 # Business Model Canvas
 
 Remark: key processes box must be consistent with IS Views /  Process view (below)
