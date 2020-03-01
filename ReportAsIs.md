@@ -71,7 +71,7 @@ Also, the warehouse keeper enters the new warehouse details which are being used
 Then, given the inventories available for this product, the inventory can be obtained by the system and provided to the sales department. Customer contacts to Factory Sales Unit for Purchasing. After the customer is registered in the system based on the merchandise inventory, the order is registered and a date is set for contracting and finalizing the order, which can be the same time (at the time of the agreement). Costs are incurred and the order cannot be changed after the contract has been concluded.
 The sales unit sends a custom remittance to the warehouse keeper.The warehouse keeper communicates with the customer after checking the items and coordinates the exact specifications of the time and place of delivery with the customer. The warehouse keeper issues the loading permit for the remittance and delivers it to the driver along with the delivery address. Once the goods are delivered to the customer, they will receive a receipt from the customer.In the event of any defects in the goods and their referral by the customer, returning invoice is issued for the customer and refund the cost of the reference item. Then the sales unit after receiving the item from the customer will send it to the production line for correction.On the other hand, during the selling process, there is always a need for contacts between the warehouse keeper and the sales unit to ensure whether goods are available or not.
 ## Functional view, data
-<p style="text-align:center;"><img src="https://www.mediafire.com/convkey/6f8e/0y7rwbusnasqk0i6g.jpg" alt='' ></p>
+<p style="text-align:center; width:100%;"><img src="https://www.mediafire.com/convkey/6f8e/0y7rwbusnasqk0i6g.jpg" alt='' ></p>
 
 UML class diagram for data conceptual model (common to all processes / all organization)
 
@@ -81,7 +81,11 @@ List and describe key processes
 
 | Process name | Description (text) | Input | Output |
 | --- | --- | --- | --- |
-|   |   |   |   |
+|  Storing |  storing products after production |   |   |
+| --- | --- | --- | --- |
+| Processing request | all actions are taken during the purchasing process |    |   |
+| --- | --- | --- | --- |
+| Returning the Products |all action are taken for returning the product from customer  | | |
 
 (must be consistent with key processes box in BMC)
 
