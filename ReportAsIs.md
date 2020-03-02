@@ -85,7 +85,7 @@ List and describe key processes
 | Returning the Products |all action are taken for returning the product from customer  |    |    |
 <img src="https://www.mediafire.com/convkey/d177/3bursl748a19p366g.jpg" alt=""> <br>
 <img src="https://www.mediafire.com/convkey/01f1/1tju5ol080kut0i6g.jpg" alt=""> <br>
-
+<img src="https://www.mediafire.com/convkey/1a58/guzipan7nagtf226g.jpg" alt="">
 
 (must be consistent with key processes box in BMC)
 
