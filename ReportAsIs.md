@@ -83,7 +83,9 @@ List and describe key processes
 |  Storing |  storing products after production |   |   |
 | Processing request | all actions are taken during the purchasing process |    |   |
 | Returning the Products |all action are taken for returning the product from customer  |    |    |
-<img src="https://www.mediafire.com/convkey/d177/3bursl748a19p366g.jpg" alt="">
+<img src="https://www.mediafire.com/convkey/d177/3bursl748a19p366g.jpg" alt=""> <br>
+<img src="https://www.mediafire.com/convkey/01f1/1tju5ol080kut0i6g.jpg" alt=""> <br>
+
 
 (must be consistent with key processes box in BMC)
 
