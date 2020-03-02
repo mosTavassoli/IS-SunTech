@@ -80,12 +80,14 @@ UML class diagram for data conceptual model (common to all processes / all organ
 List and describe key processes
 
 | Process name | Description (text) | Input | Output |
+| --- | --- | --- |
 |  Storing |  storing products after production |   |   |
 | Processing request | all actions are taken during the purchasing process |    |   |
 | Returning the Products |all action are taken for returning the product from customer  |    |    |
+
 <img src="https://www.mediafire.com/convkey/d177/3bursl748a19p366g.jpg" alt=""> <br>
 <img src="https://www.mediafire.com/convkey/01f1/1tju5ol080kut0i6g.jpg" alt=""> <br>
-<img src="https://www.mediafire.com/convkey/1a58/guzipan7nagtf226g.jpg" alt="">
+<img src="https://www.mediafire.com/convkey/1a58/guzipan7nagtf226g.jpg" alt=""> <br>
 
 (must be consistent with key processes box in BMC)
 
@@ -102,9 +104,7 @@ List IT applications or services used
 | Application name | Vendor (or internal if made internally) | Main functions |
 | --- | --- | --- |
 |  WarehouseAPP |  INTERNAL | SAVE THE DETAIL OF PRODUCT,MANAGING & UPDATING THE REQUEST,ISSUE THE LOADING PERMIT,AVAILABILITY  |
-| --- | --- | --- |
 |  SALESAPP |  INTERNAL | INSERT & UPDATE & MANAGE THE REQUEST,ISSUE THE INVOICE,MANAGE THE CONTRACT,MANAGE THE RETURING,MANAGE THE CUSTOMER   |
-| --- | --- | --- |
 |  FinancialAPP |  INTERNAL | SEND & RECIVE THE MONEY,MANAGE THE FINANCIAL,MANAGE THE INVOICES,INVESTMENT,MANAGE THE CONTRACT  |
 |  ProductionAPP |  INTERNAL | MANAGING THE PRODUCT,MANAGE THE REQUEST,CONTROLING THE PRODUCTION  |
 
