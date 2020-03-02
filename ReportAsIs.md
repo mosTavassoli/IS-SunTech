@@ -106,11 +106,10 @@ List IT applications or services used
 |  SALESAPP |  INTERNAL | INSERT & UPDATE & MANAGE THE REQUEST,ISSUE THE INVOICE,MANAGE THE CONTRACT,MANAGE THE RETURING,MANAGE THE CUSTOMER   |
 | --- | --- | --- |
 |  FinancialAPP |  INTERNAL | SEND & RECIVE THE MONEY,MANAGE THE FINANCIAL,MANAGE THE INVOICES,INVESTMENT,MANAGE THE CONTRACT  |
-| --- | --- | --- |
 |  ProductionAPP |  INTERNAL | MANAGING THE PRODUCT,MANAGE THE REQUEST,CONTROLING THE PRODUCTION  |
 
 ### Technological view
-<img src="https://www.mediafire.com/convkey/07c3/5lgs870ukm01a4h6g.jpg" alt="">
+<img src="https://www.mediafire.com/convkey/07c3/5lgs870ukm01a4h6g.jpg" alt=""> <br>
 UML deployment diagram, showing computational nodes, and allocation of applications + data clusters to nodes
 
 (data clusters == group of classes, from the data model, UML class diagram)
