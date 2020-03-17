@@ -153,5 +153,3 @@ To be repeated for each relevant process (notably processes that will be changed
 # Summary analysis
 
 The warehousing process is always facing a huge amount of issues such as High Labor Costs, Inaccurate Inventory, Redundant Processes , etc . For instance, in the given system, during the selling process, there were always a lot of contacts between the warehouse and the sales unit to make sure the goods were available, which sometimes put us under pressure in terms of the number of employees needed, but with a practical look at the system, One of the most important information that is always being updated is any product that helps the sales department greatly in customer interaction. 
-
-IT alignment problems.
