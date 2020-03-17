@@ -2,9 +2,7 @@ Model of Organization - To Be
 
 # Summary of changes
 
-Here describe at high level the change(s), and their motivation. Link with critical points identified in As Is analysis
-
-The following sections are meant to describe in more detail the changes, using the same structure used in the As Is document.
+The big issue of AS-IS system is that each section such as financial units, sales units, and other sections which are described before, just contact each other in a very inefficient way, like a telephone in order to do their tasks. Another problem which can cause the handling the warehousing process makes more complex is not having an integrated system to collect information from various sections. Be doing so, accessing info could be extremely straightforward for each part and definitely in the long term, it would increase customer satisfaction.
 
 # Organizational variables
 
@@ -28,7 +26,7 @@ Keep this section and subsections, if there is no change just write "no change".
 
 # Business model canvas
 
-if there is no change just write "no change", other wise detail only the box(es) that change.
+no change
 
 # IS Views
 
