@@ -21,7 +21,7 @@ The main extruding product at Bronze Plast Salon is polywood Sheets, These sheet
 
 The bronze laboratory began its operation at an area of ​​about 40 square meters, with the launch of the Bronze Company, with only one device to test the impact of the free fall of plastic parts. At the same time as the development of bronze company, a number of test methods and devices of this laboratory were added and devices such as Tensile, HDT / VICAT, Oven, Chambers, environmental conditions and … were added to the laboratory equipment.
 
-In 1993, by changing the bronze qualitative approach and adding more key components to the bronze production complex, the lab building was moved to a larger location and after updating and equipping it with world-day devices such as the Airborne Static Deployment Test (SDT), a test similar to The sunshine (SUN SIMULATOR) and spectrophotometer (SPECTROPHOTOMETR) have grown to around 400 square meters.
+In 1993, by changing the bronze qualitative approach and adding more key components to the bronze production complex, the lab building was moved to a larger location and after updating and equipping it with world-day devices such as the Airborne Static Deployment Test (SDT), a test similar to The sunshine (SUN SIMULATOR) and spectrophotometer (SPECTROPHOTOMETER) have grown to around 400 square meters.
 
 The lab now has more than 25 key devices in the testing of materials, polymer parts and automotive products, such as durable treaders for all types of vehicle assemblies such as DOOR SLAM, durability of the dashboard and durability of the door handle, and … One of the largest and most qualitative references for the testing of polymer products, and in particular automobile decoration, offers its services to all partners and non-automotive car companies.
 
@@ -35,7 +35,7 @@ Plastic injection by heavy injection machines From 800 to 2700 tons Injectable w
 Their mission is creating a true sense of safety, calmness, and comfort for their  customers in different automobile classes , through designing and mass production of trim parts including a variety of dashboards , door panels , parcel shelves , sound and thermal insulators and etc., with high quality, and time and cost management through combining art , science and technology in designing and product manufacturing . Relying on science, domestic ability and progressed machines, Bronze Industrial Group is ready to design and manufacture any kind of products required by domestic and global markets. Regarding the institutionalization of the R & D organization in the bronze industrial group, it is possible to transform any idea into a product and create new products.
 
 ## Culture
-The bronze industrial group, relying on its large industrial family, is one of the largest and most progressive manufacturing companies in the trim and complementary industries of the various production vehicles of the major companies of Iran Khodro, Pars Khodro, Renault and Saipa, such as “Dashboards of various types, Door panels , Parcel shelves and insulators, Thermal and hot termal, locking and door handle, and heavy polyethylene sheets (geomembranes), geotextile in the country.
+The bronze industrial group, relying on its large industrial family, is one of the largest and most progressive manufacturing companies in the trim and complementary industries of the various production vehicles of the major companies of Iran Khodro, Pars Khodro, Renault and Saipa, such as “Dashboards of various types, Door panels , Parcel shelves and insulators, Thermal and hot thermal, locking and door handle, and heavy polyethylene sheets (geomembranes), geotextile in the country.
 ## Structure
 
 Organizational chart
@@ -44,20 +44,14 @@ Organizational chart
 
 ### IT/IS  group / office
 
-If present, describe IT office (where in structure, size, skills)
-
-If not, describe how IT services are decided and managed (external provider, external consultant, ...)
-
-If possible, report or estimate expense in IT
-
-Report ratio: expense in IT / Turn over
+The IT group is based in the central building and it is managed internally and some employees are responsible to develop, maintenance each department's systems and devices.
 
 ## Formalization / specialization/ centralization
 
 ## Organizational type
 
-Bronze Industry which is located nearly to the capital city holds the CEO, Development, Human Resource, Marketing, Financial, Support, warehousing, and IT departments. Note that the software systems (product) is developed in main Industry's building.
-As a result, Bronze is not a Geographical however it's Functional company with high level of formalization.
+Bronze Industry which is located nearly to the capital city holds the CEO, Development, Human Resource, Marketing, Financial, Support, warehousing, and IT departments. Note that the software systems (product) are developed in the main Industry's building.
+As a result, Bronze is not a Geographical however it's Functional company with a high level of formalization.
 
 # Business Model Canvas
 <img src="https://www.mediafire.com/convkey/84d3/vgkvaj5oxwtc6op6g.jpg" alt=""> <br>
@@ -104,8 +98,8 @@ List IT applications or services used
 | Application name | Vendor (or internal if made internally) | Main functions |
 | --- | --- | --- |
 |  WarehouseAPP |  INTERNAL | SAVE THE DETAIL OF PRODUCT,MANAGING & UPDATING THE REQUEST,ISSUE THE LOADING PERMIT,AVAILABILITY  |
-|  SALESAPP |  INTERNAL | INSERT & UPDATE & MANAGE THE REQUEST,ISSUE THE INVOICE,MANAGE THE CONTRACT,MANAGE THE RETURING,MANAGE THE CUSTOMER   |
-|  FinancialAPP |  INTERNAL | SEND & RECIVE THE MONEY,MANAGE THE FINANCIAL,MANAGE THE INVOICES,INVESTMENT,MANAGE THE CONTRACT  |
+|  SALESAPP |  INTERNAL | INSERT & UPDATE & MANAGE THE REQUEST,ISSUE THE INVOICE,MANAGE THE CONTRACT,MANAGE THE RETURNING,MANAGE THE CUSTOMER   |
+|  FinancialAPP |  INTERNAL | SEND & RECEIVE THE MONEY,MANAGE THE FINANCIAL,MANAGE THE INVOICES,INVESTMENT,MANAGE THE CONTRACT  |
 |  ProductionAPP |  INTERNAL | MANAGING THE PRODUCT,MANAGE THE REQUEST,CONTROLING THE PRODUCTION  |
 
 ### Technological view
@@ -130,9 +124,13 @@ Summarize the current IT strategy, discuss if it is consistent with the company 
 
 | CSF ID | Type (domain, distinguishing, environment, contingency) | Textual description, link to strategy | Related Metric(s) | Current value (if available) |
 | --- | --- | --- | --- | --- |
-| CSF1 |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| CSF1 |    Domain  |  Training personel for improving the skills and their knowledges by holding the different workshops for each departments|  % |  30% |
+|  CSF2 | Distinguishing  | making the advertisement for attracting the customers in market  |  % |   |
+| CSF3  |  Distinguishing | Increasing the rate of production  |  % of output production |   |
+| CSF4  |  Domain | Cost of process |  Price |   |
+| CSF5  |  Domain   | improving Customer Satisfaction | Likilhood of recommends  |   |
+
+
 
 ## KPI
 
@@ -140,15 +138,32 @@ Summarize the current IT strategy, discuss if it is consistent with the company 
 
 (Process name must be consistent with IS view / Process view)
 
-KPI table for process X
+KPI table for Processing the request.
 
 | KPI name | KPI type (general, service..) | description | Unit of measure | CSF covered (if any) | Current value (if available) |
 | --- | --- | --- | --- | --- | --- |
-|   |   |   |   |   |   |
+|  GN-C |  General | number of customer's request  | Unit  |  CSF4 |   |
+|  GN-E |  General | number of employees in process  | Unit  |  CSF4 |   |
+|  GN-P |  General | number of send product  | Unit  |  CSF4 |   |
+|  S-LT0 |  Service | lead time from getting the request until sending the product  | time  |  CSF5|   |
+|  S-LT1 |  Service | lead time the producing the product | time  |  CSF5|   |
+|  UC-0|  Efficiency | Unit cost for each process (effort of employees of each department *GN-E + paper and ink and telephone)/GN-C  | Euro  |  CSF4|   |
+|  Q-p1 |  Quality | product's failures or sending the wrong production | %  |      CSF4|   |
 
 ### Process Y
 
-To be repeated for each relevant process (notably processes that will be changed in To Be)
+(Process name must be consistent with IS view / Process view)
+
+KPI table for returning the product.
+
+| KPI name | KPI type (general, service..) | description | Unit of measure | CSF covered (if any) | Current value (if available) |
+| --- | --- | --- | --- | --- | --- |
+|  GN-CR |  General | number of customer's request for returning | Unit  |  CSF4 |   |
+|  GN-ER |  General | number of employees in returning process  | Unit  |  CSF4 |   |
+|  S-LTR0 |  Service | lead time from getting the returning request until sending the refund  | time  |  CSF5|   |
+|  S-LTR1 |  Service | lead time the producing the request until getting the confirmation | time  |  CSF5|   |
+|  UCR-0|  Efficiency | Unit cost for each process (effort of employees of each department *GN-ER + paper and ink and telephone)/GN-CR  | Euro  |  CSF4|   |
+|  Q-p1 |  Quality | Issuing the wrong invoice,refund failures | %  |      CSF4|   |
 
 # Summary analysis
 
