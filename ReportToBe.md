@@ -31,10 +31,7 @@ no change
 # IS Views
 
 ## Functional view, data
-
-Write no change if the model remains as in As Is
-
-Otherwise report here new class diagram and highlight where are the changes and why
+<a href="https://www.mediafire.com/convkey/fe16/xgwve72lc75h7836g.jpg" alt="TO-BE"></a>
 
 ## Functional view, processes
 
