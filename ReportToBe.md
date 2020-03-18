@@ -31,7 +31,7 @@ no change
 # IS Views
 
 ## Functional view, data
-<a href="https://www.mediafire.com/convkey/fe16/xgwve72lc75h7836g.jpg" alt="TO-BE"></a>
+<img src="https://www.mediafire.com/convkey/fe16/xgwve72lc75h7836g.jpg" alt="TO-BE"></img>
 
 ## Functional view, processes
 
