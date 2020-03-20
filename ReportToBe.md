@@ -5,8 +5,8 @@ Model of Organization - To Be
 The big issue of AS-IS system is that each section such as financial units, sales units, and other sections which are described before, just contact each other in a very inefficient way, like a telephone in order to do their tasks. Another problem which can cause the handling the warehousing process makes more complex is not having an integrated system to collect information from various sections. Be doing so, accessing info could be extremely straightforward for each part and definitely in the long term, it would increase customer satisfaction.
 
 # Organizational variables
-
-Keep this section and subsections, if there is no change just write "no change". In case there is a change detail it.
+No changes
+<!-- Keep this section and subsections, if there is no change just write "no change". In case there is a change detail it. -->
 
 ## Size
 
@@ -26,7 +26,7 @@ Keep this section and subsections, if there is no change just write "no change".
 
 # Business model canvas
 
-no change
+No Changes
 
 # IS Views
 
@@ -44,13 +44,24 @@ Write no change if the model remains as in As Is
 
 Report the PICK chart (see process redesign chapter) used to select the process to be changed and argument about it
 
-### Process y
+### Process Processing the Request
 
-For each changed process report the new BPMN (highlight where are the changes and why) and  the software functions needed by the IS, as follows
+<img src="https://www.mediafire.com/convkey/df31/uoqqsu6cxivtogb6g.jpg" alt=""> <br>
+
+<!-- For each changed process report the new BPMN (highlight where are the changes and why) and  the software functions needed by the IS, as follows -->
 
 | Activity in BPMN | Supporting Software functions |
 | --- | --- |
-|   |   |
+|  Checking the Availability   |  with integration system sales unit can access to the all list of available items in the warehouse and able to decide which departments should be take action.   |
+|  |   |
+### Process Returning 
+<img src="https://www.mediafire.com/convkey/1263/5rb983gpg7midjg6g.jpg" alt=""> <br>
+
+<!-- For each changed process report the new BPMN (highlight where are the changes and why) and  the software functions needed by the IS, as follows -->
+
+| Activity in BPMN | Supporting Software functions |
+| --- | --- |
+|making decision about request  |  all negotiations about request are transmitting over the system without any paper working |
 |   |   |
 
 ## IT view
@@ -87,7 +98,8 @@ Show how the selected application provides the software functions needed (as ide
 
 ### Technological view
 
-Write no change in case. Otherwise report the new deployment diagram and highlight the changes
+<img src="https://www.mediafire.com/convkey/7f95/ol04wdtrt1d0yfb6g.jpg" alt=""> <br>
+<!-- Write no change in case. Otherwise report the new deployment diagram and highlight the changes -->
 
 #### Integration
 

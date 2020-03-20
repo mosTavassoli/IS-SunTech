@@ -44,7 +44,7 @@ Organizational chart
 
 ### IT/IS  group / office
 
-The IT group is based in the central building and it is managed internally and some employees are responsible to develop, maintenance each department's systems and devices.
+The IT group is based in the central building and it is managed internally and some employees are responsible to maintenance each department's systems and devices.
 
 ## Formalization / specialization/ centralization
 
@@ -56,14 +56,14 @@ As a result, Bronze is not a Geographical however it's Functional company with a
 # Business Model Canvas
 <img src="https://www.mediafire.com/convkey/84d3/vgkvaj5oxwtc6op6g.jpg" alt=""> <br>
 
-Remark: key processes box must be consistent with IS Views /  Process view (below)
+<!-- Remark: key processes box must be consistent with IS Views /  Process view (below) -->
 
 # IS Views
 In general, in a product warehousing system, the process is to send the goods to the warehouse after production. The sales unit according to the consumer inventory in the warehouse sells the goods to the customer.
 Initially, the warehouse keeper will list the new goods for the first time and enter details into the warehouse system with the name and specifications which are not previously stored in the warehouse.
 Also, the warehouse keeper enters the new warehouse details which are being used for storing the product, according to its specifications. The warehouse keeper logs it into the system after receiving the goods from and issuing the receipt. From now, this product is counted as a warehouse stock and the name and specification of the product are in the system.
 Then, given the inventories available for this product, the inventory can be obtained by the system and provided to the sales department. Customer contacts to Factory Sales Unit for Purchasing. After the customer is registered in the system based on the merchandise inventory, the order is registered and a date is set for contracting and finalizing the order, which can be the same time (at the time of the agreement). Costs are incurred and the order cannot be changed after the contract has been concluded.
-The sales unit sends a custom remittance to the warehouse keeper.The warehouse keeper communicates with the customer after checking the items and coordinates the exact specifications of the time and place of delivery with the customer. The warehouse keeper issues the loading permit for the remittance and delivers it to the driver along with the delivery address. Once the goods are delivered to the customer, they will receive a receipt from the customer.In the event of any defects in the goods and their referral by the customer, returning invoice is issued for the customer and refund the cost of the reference item. Then the sales unit after receiving the item from the customer will send it to the production line for correction.On the other hand, during the selling process, there is always a need for contacts between the warehouse keeper and the sales unit to ensure whether goods are available or not.
+The sales unit sends a custom remittance to the warehouse keeper.The warehouse keeper communicates with the customer after checking the items and coordinates the exact specifications of the time and place of delivery with the customer. The warehouse keeper issues the loading permit for the remittance and delivers it to the driver along with the delivery address. Once the goods are delivered to the customer, they will receive a receipt from the customer. In the event of any defects in the goods and their referral by the customer, returning invoice is issued for the customer and refund the cost of the reference item. Then the sales unit after receiving the item from the customer will send it to the production line for correction.On the other hand, during the selling process, there is always a need for contacts between the warehouse keeper and the sales unit to ensure whether goods are available or not.
 ## Functional view, data
 <p style="text-align:center; width:100%;"><img src="https://www.mediafire.com/convkey/6f8e/0y7rwbusnasqk0i6g.jpg" alt='' ></p>
 
@@ -74,10 +74,10 @@ UML class diagram for data conceptual model (common to all processes / all organ
 List and describe key processes
 
 | Process name | Description (text) | Input | Output |
-| --- | --- | --- |
-|  Storing |  storing products after production |   |   |
-| Processing request | all actions are taken during the purchasing process |    |   |
-| Returning the Products |all action are taken for returning the product from customer  |    |    |
+| --- | --- | --- | --- |
+|  Storing |  storing products after production | Products  |   |
+| Processing request | all actions are taken during the purchasing process |  Order request  | Sold Product |
+| Returning the Products |all action are taken for returning the product from customer  |  Request  |    |
 
 <img src="https://www.mediafire.com/convkey/1bbf/xbagltl6u9ykqna6g.jpg" alt=""> <br>
 <img src="https://www.mediafire.com/convkey/01f1/1tju5ol080kut0i6g.jpg" alt=""> <br>
@@ -97,22 +97,22 @@ List IT applications or services used
 
 | Application name | Vendor (or internal if made internally) | Main functions |
 | --- | --- | --- |
-|  WarehouseAPP |  INTERNAL | SAVE THE DETAIL OF PRODUCT,MANAGING & UPDATING THE REQUEST,ISSUE THE LOADING PERMIT,AVAILABILITY  |
-|  SALESAPP |  INTERNAL | INSERT & UPDATE & MANAGE THE REQUEST,ISSUE THE INVOICE,MANAGE THE CONTRACT,MANAGE THE RETURNING,MANAGE THE CUSTOMER   |
-|  FinancialAPP |  INTERNAL | SEND & RECEIVE THE MONEY,MANAGE THE FINANCIAL,MANAGE THE INVOICES,INVESTMENT,MANAGE THE CONTRACT  |
+|  WarehouseAPP |  EXTERNAL-KARBORD COMPS | SAVE THE DETAIL OF PRODUCT,MANAGING & UPDATING THE REQUEST,ISSUE THE LOADING PERMIT,AVAILABILITY  |
+|  SALESAPP |  EXTERNAL-HOLO Co. | INSERT & UPDATE & MANAGE THE REQUEST,ISSUE THE INVOICE,MANAGE THE CONTRACT,MANAGE THE RETURNING,MANAGE THE CUSTOMER   |
+|  FinancialAPP |  EXTERNAL-HOLO Co. | SEND & RECEIVE THE MONEY,MANAGE THE FINANCIAL,MANAGE THE INVOICES,INVESTMENT,MANAGE THE CONTRACT  |
 |  ProductionAPP |  INTERNAL | MANAGING THE PRODUCT,MANAGE THE REQUEST,CONTROLING THE PRODUCTION  |
 
 ### Technological view
-<img src="https://www.mediafire.com/convkey/07c3/5lgs870ukm01a4h6g.jpg" alt=""> <br>
-UML deployment diagram, showing computational nodes, and allocation of applications + data clusters to nodes
+<img src="https://www.mediafire.com/convkey/8629/qi27md3rdq30hwt6g.jpg" alt=""> <br>
+<!-- UML deployment diagram, showing computational nodes, and allocation of applications + data clusters to nodes
 
-(data clusters == group of classes, from the data model, UML class diagram)
+<!-- (data clusters == group of classes, from the data model, UML class diagram)
 
-(applications are the ones identified in application portfolio)
+(applications are the ones identified in application portfolio) --> 
 
 ### Outsourcing
 
-Highlight which IT service is outsourced (if any)
+All applications are deployed internally on each department's servers and their databases.
 
 # IT strategy
 
