@@ -146,7 +146,6 @@ KPI table for Processing the request.
 |  GN-E |  General | number of employees in process  | Unit  |  CSF4 |   |
 |  GN-P |  General | number of send product  | Unit  |  CSF4 |   |
 |  S-LT0 |  Service | lead time from getting the request until sending the product  | time  |  CSF5|   |
-|  S-LT1 |  Service | lead time the producing the product | time  |  CSF5|   |
 |  UC-0|  Efficiency | Unit cost for each process (effort of employees of each department *GN-E + paper and ink and telephone)/GN-C  | Euro  |  CSF4|   |
 |  Q-p1 |  Quality | product's failures or sending the wrong production | %  |      CSF4|   |
 
@@ -161,7 +160,6 @@ KPI table for returning the product.
 |  GN-CR |  General | number of customer's request for returning | Unit  |  CSF4 |   |
 |  GN-ER |  General | number of employees in returning process  | Unit  |  CSF4 |   |
 |  S-LTR0 |  Service | lead time from getting the returning request until sending the refund  | time  |  CSF5|   |
-|  S-LTR1 |  Service | lead time the producing the request until getting the confirmation | time  |  CSF5|   |
 |  UCR-0|  Efficiency | Unit cost for each process (effort of employees of each department *GN-ER + paper and ink and telephone)/GN-CR  | Euro  |  CSF4|   |
 |  Q-p1 |  Quality | Issuing the wrong invoice,refund failures | %  |      CSF4|   |
 
