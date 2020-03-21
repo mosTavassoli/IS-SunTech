@@ -2,11 +2,11 @@ Model of Organization - as is
 
 # Identification
 
-Bronze Industrial Group, Bronze St (nakhl street) ,Kerman Motor Blvd , 16th km Tehran Karaj Exp-way , Tehran
+Bronze Industrial Group, Bronze St (nakhl street) ,Kerman Motor Blvd , 16th km Tehran Karaj Exp-way , Tehran, Iran
 
 # Financial and legal information
 
-Turn over in the year 2019 of Bronze Industry is roughly 7.5 million Euros based on their services and selling products.
+Turn over in the year 2019 of the Bronze Industry is roughly 7.5 billion Euros based on their services and selling products.
 
 # Organizational variables
 
@@ -17,7 +17,7 @@ approximately 400 employees , year 2019
 ## Products, services
 
 Bronze is the only manufacturer of WoodStock sheets in Iran.
-The main extruding product at Bronze Plast Salon is polywood Sheets, These sheets, which make up the bulk of our products are among the most commonly used materials in the world of door panel and parcel shelves. The above mentioned sheets were imported from outside the country, By launching an extruding machine and producing these sheets in the bronze company, In order to self-sufficiency and to prevent the withdrawal of currency from the company, a significant step was taken.In most products of the company, wood composite sheets are used to produce the final products.
+The main extruding product at Bronze Plast Salon is polywood Sheets, These sheets, which make up the bulk of our products are among the most commonly used materials in the world of door panel and parcel shelves. The above mentioned sheets were imported from outside the country, By launching an extruding machine and producing these sheets in the bronze company, In order to self-sufficiency and to prevent the withdrawal of currency from the company, a significant step was taken. In most products of the company, wood composite sheets are used to produce the final products.
 
 The bronze laboratory began its operation at an area of ​​about 40 square meters, with the launch of the Bronze Company, with only one device to test the impact of the free fall of plastic parts. At the same time as the development of bronze company, a number of test methods and devices of this laboratory were added and devices such as Tensile, HDT / VICAT, Oven, Chambers, environmental conditions and … were added to the laboratory equipment.
 
@@ -83,11 +83,11 @@ List and describe key processes
 <img src="https://www.mediafire.com/convkey/01f1/1tju5ol080kut0i6g.jpg" alt=""> <br>
 <img src="https://www.mediafire.com/convkey/1a58/guzipan7nagtf226g.jpg" alt=""> <br>
 
-(must be consistent with key processes box in BMC)
+<!-- (must be consistent with key processes box in BMC)
 
 (corresponds to "Process identification" step, see chapter "Process redesign" in lessons )
 
-For processes that will be changed in the transition to To Be report BPMN model
+For processes that will be changed in the transition to To Be report BPMN model -->
 
 ## IT  view
 
@@ -117,6 +117,8 @@ All applications are deployed internally on each department's servers and their 
 # IT strategy
 
 Summarize the current IT strategy, discuss if it is consistent with the company strategy
+
+Now there is no specific IT strategy and application just using external Apps.
 
 # Indicators
 

@@ -50,7 +50,7 @@ Write no change if the model remains as in As Is
 | Activity in BPMN | Supporting Software functions |
 | --- | --- |
 |  Checking the Availability   |  with integration system sales unit can access to the all list of available items in the warehouse and able to decide which departments should be take action.   |
-|  |   |
+
 ### Process (RETURNING)
 <img src="https://www.mediafire.com/convkey/1263/5rb983gpg7midjg6g.jpg" alt=""> <br>
 
@@ -59,7 +59,7 @@ Write no change if the model remains as in As Is
 | Activity in BPMN | Supporting Software functions |
 | --- | --- |
 |making decision about request  |  all negotiations about request are transmitting over the system without any paper working |
-|   |   |
+
 
 ## IT view
 
@@ -68,8 +68,7 @@ Write no change if the model remains as in As Is
 <!-- Write no change if the portfolio remains as in As Is
 
 Otherwise list here the new portfolio, highlighting new applications, and abandoned applications. -->
-there is a developed internally integrated central app with multiple functions which is providing the web interface access to all departments and providing the services that they need instead of separately using different vendors app for each departments.
-
+There is a developed internally integrated central app with multiple functions which is providing the web interface access to all departments and providing the services that they need instead of separately using different vendor's app for each department.
 
 #### Selection
 
@@ -93,9 +92,10 @@ Describe here how the selection of the new application was made
 |  Support |  10 |  8 |  7 | 6|
 |  Services | 10  |  7 |  7 |10|
 |  Customization | 10 |  6 | 5  | 8|
+
 BEST = 10, WORST = 0
 <!-- Alternatively argue that the new application should be developed custom for the company. -->
-According to the above comparison table,despite of Odoo's functionalities and services,the price was too high and the supporting was not provided. so the decision has been made to develope the app internally inside the company. 
+According to the above comparison table, despite Odoo's functionalities and services, the price was too high and the support was not provided. so the decision has been made to develop the app internally inside the company.
 
 #### Coverage
 
@@ -128,7 +128,16 @@ All data and information are stored in a central database that easily transferre
 
 Discuss if there should be changes to it.
 
+Now, compnay is offered a new integrated system for all it's departments by IT.
+
 # Effect of change(s)
+
+1-Increased customer satisfaction.
+2-Great Useability and functionality
+3-Reduced ERRORS and lost
+4-Reduced Overhead-cost
+5-Reduced the production's time and improved the quality
+
 
 ## Effect on KPIs and CSFs
 
@@ -150,13 +159,10 @@ Define the TCO for the change (use a 3 -5 years horizon)
 Estimate costs (from TCO) and savings, and discuss the number of years needed to recover the investment
 | Phase  | Cost | 
 | --- | --- | 
-| Construction  | Define requirements for new IT application,
-develop or acquire it  |   
-| Deployment  | Deployment of new IT application, training of
-employees  |   
-| Operation   |  Electricity, conditioning |   
-| Maintenace  | Fix of defects, development of new or enhanced
-functions  |   
+| Construction  | Define requirements for new IT application,develop or acquire it|   
+|  Deployment| Deployment of new IT application, training of employees|   
+| Operation |  Electricity, conditioning |   
+| Maintenace  | Fix of defects, development of new or enhanced functions  |   
 | Dismissal  |  Transfer data into new systems |   
 
 TCO = C+D + 5OM ,
@@ -177,3 +183,4 @@ Concerning human factors, it is essential to train all of employees to use the s
 # Conclusion
 
 In summary, why the organization should buy (and pay for) your proposal of change?
+In conclusion, according to the lack of integrity and communication, because of using separated and different vendor's app leads to have poor performance of co-operation, services and having a lot of Errors and failures and bunch of paper works. 
