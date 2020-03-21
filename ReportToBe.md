@@ -157,6 +157,7 @@ Report only indicators that are supposed to change, argument on why the change h
 Define the TCO for the change (use a 3 -5 years horizon)
 
 Estimate costs (from TCO) and savings, and discuss the number of years needed to recover the investment
+
 | Phase  | Cost | 
 | --- | --- | 
 | Construction  | Define requirements for new IT application,develop or acquire it|   
