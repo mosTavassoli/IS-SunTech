@@ -44,7 +44,7 @@ Organizational chart
 
 ### IT/IS  group / office
 
-The IT group is based in the central building and it is managed internally and some employees are responsible to maintenance each department's systems and devices.
+The IT group is based in the central building and it is managed internally and including the 6 employees, who are responsible for maintenance each department's systems and devices as a help desk. obviously, because the company was based on traditional routines and approaches so there was no need to have professional employees to manipulate some server-side operations like managing the central database, security, communicating and networking, etc.beside of that because each department is using the different vendor's application to meet their requirements if they have problems they would contact with the Vendor for getting the support.
 
 ## Formalization / specialization/ centralization
 
@@ -59,10 +59,10 @@ As a result, Bronze is not a Geographical however it's Functional company with a
 <!-- Remark: key processes box must be consistent with IS Views /  Process view (below) -->
 
 # IS Views
-In general, in a product warehousing system, the process is to send the goods to the warehouse after production. The sales unit according to the consumer inventory in the warehouse sells the goods to the customer.
-Initially, the warehouse keeper will list the new goods for the first time and enter details into the warehouse system with the name and specifications which are not previously stored in the warehouse.
-Also, the warehouse keeper enters the new warehouse details which are being used for storing the product, according to its specifications. The warehouse keeper logs it into the system after receiving the goods from and issuing the receipt. From now, this product is counted as a warehouse stock and the name and specification of the product are in the system.
-Then, given the inventories available for this product, the inventory can be obtained by the system and provided to the sales department. Customer contacts to Factory Sales Unit for Purchasing. After the customer is registered in the system based on the merchandise inventory, the order is registered and a date is set for contracting and finalizing the order, which can be the same time (at the time of the agreement). Costs are incurred and the order cannot be changed after the contract has been concluded.
+In general, in a product warehousing system, the process is to send the goods to the warehouse after production. The sales unit according to the consumer inventory in the warehouse sells the goods to the customer.</br>
+Initially, the warehouse keeper will list the new goods for the first time and enter details into the warehouse system with the name and specifications which are not previously stored in the warehouse.</br>
+Also, the warehouse keeper enters the new warehouse details which are being used for storing the product, according to its specifications. The warehouse keeper logs it into the system after receiving the goods from and issuing the receipt. From now, this product is counted as a warehouse stock and the name and specification of the product are in the system.</br>
+Then, given the inventories available for this product, the inventory can be obtained by the system and provided to the sales department. Customer contacts to Factory Sales Unit for Purchasing. After the customer is registered in the system based on the merchandise inventory, the order is registered and a date is set for contracting and finalizing the order, which can be the same time (at the time of the agreement). Costs are incurred and the order cannot be changed after the contract has been concluded.</br>
 The sales unit sends a custom remittance to the warehouse keeper.The warehouse keeper communicates with the customer after checking the items and coordinates the exact specifications of the time and place of delivery with the customer. The warehouse keeper issues the loading permit for the remittance and delivers it to the driver along with the delivery address. Once the goods are delivered to the customer, they will receive a receipt from the customer. In the event of any defects in the goods and their referral by the customer, returning invoice is issued for the customer and refund the cost of the reference item. Then the sales unit after receiving the item from the customer will send it to the production line for correction.On the other hand, during the selling process, there is always a need for contacts between the warehouse keeper and the sales unit to ensure whether goods are available or not.
 ## Functional view, data
 <p style="text-align:center; width:100%;"><img src="https://www.mediafire.com/convkey/6f8e/0y7rwbusnasqk0i6g.jpg" alt='' ></p>
@@ -71,7 +71,7 @@ UML class diagram for data conceptual model (common to all processes / all organ
 
 ## Functional view, processes
 
-List and describe key processes
+<!-- List and describe key processes -->
 
 | Process name | Description (text) | Input | Output |
 | --- | --- | --- | --- |
@@ -92,8 +92,8 @@ For processes that will be changed in the transition to To Be report BPMN model 
 ## IT  view
 
 ### Application portfolio
-
-List IT applications or services used
+<!-- 
+List IT applications or services used -->
 
 | Application name | Vendor (or internal if made internally) | Main functions |
 | --- | --- | --- |
@@ -116,9 +116,11 @@ All applications are deployed internally on each department's servers and their 
 
 # IT strategy
 
-Summarize the current IT strategy, discuss if it is consistent with the company strategy
+<!-- Summarize the current IT strategy, discuss if it is consistent with the company strategy -->
 
-Now there is no specific IT strategy and application just using external Apps.
+Although this company is a large one, IT strategy is very weak inside it. Because each department were bought an application based on its needs separately over different times that caused each one to have its software and databases.</br>
+Therefore, multiple databases would happen because each application is compatible with a specific database according to its architecture and licensing.</br>
+Despite of the operations were based on paperwork, so there is not any data transmission and communication between departments via networks, just done via like telephone or fax.
 
 # Indicators
 
@@ -167,4 +169,4 @@ KPI table for returning the product.
 
 # Summary analysis
 
-The warehousing process is always facing a huge amount of issues such as High Labor Costs, Inaccurate Inventory, Redundant Processes , etc . For instance, in the given system, during the selling process, there were always a lot of contacts between the warehouse and the sales unit to make sure the goods were available, which sometimes put us under pressure in terms of the number of employees needed, but with a practical look at the system, One of the most important information that is always being updated is any product that helps the sales department greatly in customer interaction. 
+Although the company is the richest and huge one, its prospective to the IT was very poor and made wrong decisions about it's IT infrastructure and best options, which leads to having a lot of problems, for instance, the warehousing process is always facing a huge amount of issues such as High Labor Costs, Inaccurate Inventory, Redundant Processes, and data, etc. For instance, in the given system, during the selling process, there were always a lot of contacts between the warehouse and the sales unit to make sure the goods are available, which sometimes put them under pressure in terms of the number of employees needed, but with a practical look at the system, One of the most important information that is always being updated is any product that helps the sales department greatly in customer interaction. 
